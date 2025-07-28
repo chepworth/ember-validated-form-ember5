@@ -1,5 +1,5 @@
 {
-  "name": "@chepworth/ember-validated-form",
+  "name": "ember-validated-form",
   "version": "7.0.2",
   "description": "Ember 5.x compatible fork of ember-validated-form with bug fixes",
   "repository": "https://github.com/chepworth/ember-validated-form-ember5",
@@ -39,6 +39,7 @@
   },
   "dependencies": {
     "@babel/core": "^7.24.6",
+    "@embroider/macros": "^1.16.1",
     "@embroider/util": "^1.13.0",
     "@glimmer/component": "^1.1.2",
     "@glimmer/tracking": "^1.1.2",

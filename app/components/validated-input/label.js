@@ -1,1 +1,1 @@
-export { default } from "@chepworth/ember-validated-form/components/validated-input/label";
+export { default } from "ember-validated-form/components/validated-input/label";

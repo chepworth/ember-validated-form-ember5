@@ -1,1 +1,1 @@
-export { default } from "@chepworth/ember-validated-form/components/validated-button/button";
+export { default } from "ember-validated-form/components/validated-button/button";

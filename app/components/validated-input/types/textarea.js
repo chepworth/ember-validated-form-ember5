@@ -1,1 +1,1 @@
-export { default } from "@chepworth/ember-validated-form/components/validated-input/types/textarea";
+export { default } from "ember-validated-form/components/validated-input/types/textarea";
