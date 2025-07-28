@@ -1,6 +1,6 @@
 {
   "name": "@chepworth/ember-validated-form",
-  "version": "7.0.1",
+  "version": "7.0.2",
   "description": "Ember 5.x compatible fork of ember-validated-form with bug fixes",
   "repository": "https://github.com/chepworth/ember-validated-form-ember5",
   "_originalVersion": "7.0.1",
