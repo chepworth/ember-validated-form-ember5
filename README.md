@@ -1,22 +1,38 @@
-# ember-validated-form (Ember 5.x Compatible)
+# ember-validated-form-ember5
 
-This is a fork of [adfinis/ember-validated-form](https://github.com/adfinis/ember-validated-form) with bug fixes and Ember 5.x compatibility.
-
-## 🚀 Key Improvements
-
-- ✅ **Ember 5.12+ compatibility**
-- ✅ **Fixed passed-or-default.js WeakMap bug**
-- ✅ **Removed @embroider/macros dependencies**
-- ✅ **Built-in styling support**
-- ✅ **Improved component resolution**
+Ember 5.x compatible fork of ember-validated-form with bug fixes and improvements.
 
 ## Installation
 
 ```bash
-npm install @chepworth/ember-validated-form
-# or
-yarn add @chepworth/ember-validated-form
+npm install ember-validated-form-ember5
+```
 
-Changes from Original
-See README-BRANZ.md for detailed documentation of all changes made.
-Original Documentation [View the docs here.](https://adfinis.github.io/ember-validated-form)
+## Key Improvements
+
+- ✅ Ember 5.12+ compatibility
+- ✅ Fixed component resolution bugs
+- ✅ Improved error handling
+- ✅ Built-in styling support
+
+## Migration
+
+### From original ember-validated-form:
+```json
+"ember-validated-form-ember5": "^7.0.4"
+```
+
+### From @chepworth/ember-validated-form:
+```bash
+npm uninstall @chepworth/ember-validated-form
+npm install ember-validated-form-ember5
+```
+
+## Usage
+
+Drop-in replacement - usage identical to original ember-validated-form.
+
+## Documentation
+
+- **Changes made**: See [README-BRANZ.md](./README-BRANZ.md)
+- **Full usage docs**: [Original documentation](https://adfinis.github.io/ember-validated-form/)
