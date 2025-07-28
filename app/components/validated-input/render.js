@@ -1,1 +1,1 @@
-export { default } from "ember-validated-form/components/validated-input/render";
+export { default } from "@chepworth/ember-validated-form/components/validated-input/render";
