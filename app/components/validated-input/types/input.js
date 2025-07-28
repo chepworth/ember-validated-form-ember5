@@ -1,1 +1,1 @@
-export { default } from "ember-validated-form/components/validated-input/types/input";
+export { default } from "ember-validated-form-ember5/components/validated-input/types/input";

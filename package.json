@@ -1,5 +1,5 @@
 {
-  "name": "ember-validated-form",
+  "name": "ember-validated-form-ember5",
   "version": "7.0.3",
   "description": "Ember 5.x compatible fork of ember-validated-form with bug fixes",
   "repository": "https://github.com/chepworth/ember-validated-form-ember5",

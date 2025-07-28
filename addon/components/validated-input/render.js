@@ -1,6 +1,6 @@
 import Component from "@glimmer/component";
 
-import passedOrDefault from "ember-validated-form/passed-or-default";
+import passedOrDefault from "ember-validated-form-ember5/passed-or-default";
 
 export default class RenderComponent extends Component {
   @passedOrDefault("types/checkbox-group") checkboxGroupComponent;

@@ -1,1 +1,1 @@
-export { default } from "ember-validated-form/components/validated-input/hint";
+export { default } from "ember-validated-form-ember5/components/validated-input/hint";

@@ -1,1 +1,1 @@
-export { default } from "ember-validated-form/helpers/class-list";
+export { default } from "ember-validated-form-ember5/helpers/class-list";
